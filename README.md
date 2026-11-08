@@ -100,7 +100,7 @@ Saya menggunakan Claude (Anthropic) selama mengerjakan tugas ini.
 - Penjelasan materi Pertemuan 6 (modul dan slide).
 - Kode seluruh berkas di folder `lib` dan `test`.
 - Langkah Git dan kerangka README.
-- Draf bagian Penjelasan (saya baca, pahami, dan sesuaikan).
+
 
 **Saya kerjakan sendiri:**
 - Membuat proyek dan repository GitHub, serta melakukan commit dan push.
