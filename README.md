@@ -68,7 +68,15 @@ flutter analyze
 <table>
   <tr>
     <td><img src="screenshots/chrome-1024.jpeg" width="400"><br><sub>Daftar: NavigationRail dan 4 kolom</sub></td>
-    <td><img src="screenshots/tablet-detail.jpeg" width="400"><br><sub>Detail: gambar dan info berdampingan</sub></td>
+    <td><img src="screenshots/chrome-detail-1.jpeg" width="400"><br><sub>Detail: gambar dan info berdampingan</sub></td>
+    <td><img src="screenshots/chrome-detail-2.jpeg" width="400"><br><sub>Detail: gambar dan info berdampingan</sub></td>
+    <td><img src="screenshots/chrome-detail-3.jpeg" width="400"><br><sub>Detail: gambar dan info berdampingan</sub></td>
+    <td><img src="screenshots/chrome-detail-4.jpeg" width="400"><br><sub>Detail: gambar dan info berdampingan</sub></td>
+    <td><img src="screenshots/chrome-detail-5.jpeg" width="400"><br><sub>Detail: gambar dan info berdampingan</sub></td>
+    <td><img src="screenshots/chrome-detail-6.jpeg" width="400"><br><sub>Detail: gambar dan info berdampingan</sub></td>
+    <td><img src="screenshots/chrome-detail-7.jpeg" width="400"><br><sub>Detail: gambar dan info berdampingan</sub></td>
+    <td><img src="screenshots/chrome-detail-8.jpeg" width="400"><br><sub>Detail: gambar dan info berdampingan</sub></td>
+
   </tr>
 </table>
 
@@ -98,3 +106,4 @@ Saya menggunakan Claude (Anthropic) selama mengerjakan tugas ini.
 - Membuat proyek dan repository GitHub, serta melakukan commit dan push.
 - Menjalankan aplikasi di Chrome dan di HP Infinix, menguji beberapa ukuran layar, dan mengambil tangkapan layar.
 - Menjalankan `flutter test`, `flutter analyze`, dan `dart format`.
+- Draf bagian Penjelasan saya baca, pahami, dan sesuaikan.
